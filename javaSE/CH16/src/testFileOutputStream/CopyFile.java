@@ -16,7 +16,7 @@ public class CopyFile {
 		//long timeInMillis = Calendar.getInstance().getTimeInMillis();
 		//System.out.println(ran_str + "girl.jpg");
 		//System.out.println(timeInMillis + "girl.jpg");
-		copy("E:\\girl.jpg", "D:\\" + newName);
+		copy("D:\\redis.desktop.manager.exe", "E:\\" + newName);
 		
 		//获取文件的原始名字
 		/*File file = new File("D:\\1d031775f39c40c189a075fc1c0189a6@girl.jpg");
